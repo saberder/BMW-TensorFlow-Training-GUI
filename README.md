@@ -82,8 +82,6 @@ You can even test your model with our built-in Inference REST API. Training with
 
 #### Validating the prerequisites installation
 
-- Make sure that the `deleteme` files in  `datasets`   and 	`checkpoints`  folder are deleted. (deleteme files are placeholder files  used for git)
-
 	 Make sure that the `base_dir` field in  `docker_sdk_api/api/paths.json` is correct (it must match the path of the root of the repo on your machine).	
 
   ![](./documentation_images/basedir.gif)

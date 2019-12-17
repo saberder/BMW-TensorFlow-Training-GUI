@@ -45,7 +45,7 @@ You can even test your model with our built-in Inference REST API. Training with
 
 **To check if you have nvidia-docker installed:**
 
-​     			     `nvidia-docker --version`
+​     			     `nvidia-docker version`
 
 
 
